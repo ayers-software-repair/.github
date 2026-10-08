@@ -15,7 +15,7 @@
 
 | Product | What it does |
 | --- | --- |
-| [AssembleJS](https://ayers.repair/assemblejs/) | Combines frontend frameworks into one cohesive site, with server-side composition and framework-specific browser hydration.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
+| [AssembleJS](https://ayers.repair/assemblejs/) | A microfrontend framework that combines components from different UI frameworks into one application.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
 | [Magpie](https://ayers.repair/magpie/) | Your movies and shows, running as live TV channels.<br>[Website](https://ayers.repair/magpie/) · [Documentation](https://ayers.repair/magpie/docs/) |
 | [Howland](https://ayers.repair/howland/) | AI models and an offline intranet on your own hardware.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
 | [Fermi](https://ayers.repair/fermi/) | Full-service AI and RAG over your own documents, built for low-end machines.<br>[Website](https://ayers.repair/fermi/) · [Documentation](https://ayers.repair/fermi/docs/) |
