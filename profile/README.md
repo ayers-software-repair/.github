@@ -15,9 +15,9 @@
 
 | Product | What it does |
 | --- | --- |
-| [AssembleJS](https://ayers.repair/assemblejs/) | Server-side composition and browser hydration of local or remote UI assemblies, with framework-specific renderers.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
+| [AssembleJS](https://ayers.repair/assemblejs/) | Combines frontend frameworks into one cohesive site, with server-side composition and framework-specific browser hydration.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
 | [Magpie](https://ayers.repair/magpie/) | Your movies and shows, running as live TV channels.<br>[Website](https://ayers.repair/magpie/) · [Documentation](https://ayers.repair/magpie/docs/) |
-| [Howland](https://ayers.repair/howland/) | AI models and a library on your own hardware.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
-| [Fermi](https://ayers.repair/fermi/) | Ask questions about your documents and see the passages behind each answer.<br>[Website](https://ayers.repair/fermi/) · [Documentation](https://ayers.repair/fermi/docs/) |
+| [Howland](https://ayers.repair/howland/) | AI models and an offline intranet on your own hardware.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
+| [Fermi](https://ayers.repair/fermi/) | Full-service AI and RAG over your own documents, built for low-end machines.<br>[Website](https://ayers.repair/fermi/) · [Documentation](https://ayers.repair/fermi/docs/) |
 
 [Website](https://ayers.repair) · [Portfolio](https://ayers.repair/portfolio.html) · [LinkedIn](https://www.linkedin.com/in/zachariahayers/)
