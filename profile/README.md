@@ -15,7 +15,7 @@
 
 | Product | What it does |
 | --- | --- |
-| [AssembleJS](https://ayers.repair/assemblejs/) | Compose a page from different UI frameworks.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
+| [AssembleJS](https://ayers.repair/assemblejs/) | Server-side composition and browser hydration of local or remote UI assemblies, with framework-specific renderers.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
 | [Magpie](https://ayers.repair/magpie/) | Your movies and shows, running as live TV channels.<br>[Website](https://ayers.repair/magpie/) · [Documentation](https://ayers.repair/magpie/docs/) |
 | [Howland](https://ayers.repair/howland/) | AI models and a library on your own hardware.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
 | [Fermi](https://ayers.repair/fermi/) | Ask questions about your documents and see the passages behind each answer.<br>[Website](https://ayers.repair/fermi/) · [Documentation](https://ayers.repair/fermi/docs/) |
