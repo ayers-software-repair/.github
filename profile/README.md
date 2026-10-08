@@ -17,7 +17,7 @@
 | --- | --- |
 | [AssembleJS](https://ayers.repair/assemblejs/) | A microfrontend framework that combines components from different UI frameworks into one application.<br>[Website](https://ayers.repair/assemblejs/) · [Documentation](https://ayers.repair/assemblejs/docs/) |
 | [Magpie](https://ayers.repair/magpie/) | Your private TV streaming service, with movies, shows, DVDs, and CDs playing as live channels across your devices.<br>[Website](https://ayers.repair/magpie/) · [Documentation](https://ayers.repair/magpie/docs/) |
-| [Howland](https://ayers.repair/howland/) | Work, chat, and code with AI on your own hardware. Your models and your own offline intranet, including documents, wikis, and maps.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
+| [Howland](https://ayers.repair/howland/) | AI on your own hardware, with your own models and an offline intranet.<br>[Website](https://ayers.repair/howland/) · [Documentation](https://ayers.repair/howland/docs/) |
 | [Fermi](https://ayers.repair/fermi/) | Full-service AI and RAG over your own documents, built for low-end machines.<br>[Website](https://ayers.repair/fermi/) · [Documentation](https://ayers.repair/fermi/docs/) |
 
 [Website](https://ayers.repair) · [Portfolio](https://ayers.repair/portfolio.html) · [LinkedIn](https://www.linkedin.com/in/zachariahayers/)
