@@ -2,7 +2,7 @@
   <a href="https://ayers-software-repair-ar.blushsloth8.chatgpt.site/">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ayers-software-repair/.github/main/assets/ar-still.png">
-      <img src="https://raw.githubusercontent.com/ayers-software-repair/.github/main/assets/ar-spin.gif" alt="A three-dimensional A/R monogram slowly rotating in Ayers green, orange, and navy." width="640">
+      <img src="https://raw.githubusercontent.com/ayers-software-repair/.github/main/assets/ar-repair.gif" alt="The Ayers A/R logo is knocked apart by software problems while a voxel developer walks around repairing it with a laptop." width="640">
     </picture>
   </a>
 </p>
